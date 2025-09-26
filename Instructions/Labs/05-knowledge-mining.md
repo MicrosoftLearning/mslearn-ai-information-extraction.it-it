@@ -152,7 +152,7 @@ Dopo aver creato i documenti, è possibile creare un indicizzatore per estrarre 
     - Esegue il set di competenze cognitive per generare campi arricchiti aggiuntivi.
     - Esegue il mapping all'indice dei campi estratti.
     - Salva gli asset di dati estratti nell'archivio conoscenze.
-1. Nel riquadro di spostamento a sinistra visualizzare in **Gestione ricerca** la pagina **Indicizzatori**, che dovrebbe mostrare l'indicizzatore **margies-indexer** appena creato. Attendere alcuni minuti e fare clic su **&orarr; Aggiorna** finché lo **Stato** non indica **Operazione completata**.
+1. Nel riquadro di spostamento a sinistra visualizzare in **Gestione ricerca** la pagina **Indicizzatori**, che dovrebbe mostrare l'indicizzatore **margies-indexer** appena creato. Attendere alcuni minuti e fare clic su **&#8635; Aggiorna** finché lo **Stato** non indica **Operazione completata**.
 
 ## Eseguire ricerche nell'indice
 
