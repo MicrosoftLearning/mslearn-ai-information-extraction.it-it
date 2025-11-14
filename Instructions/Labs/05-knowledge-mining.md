@@ -76,6 +76,16 @@ La soluzione di knowledge mining estrarrà informazioni dai documenti di brochur
 Dopo aver creato i documenti, è possibile creare un indicizzatore per estrarre informazioni da tali documenti.
 
 1. Nel portale di Azure passare alla risorsa di Azure AI Search. Quindi, nella pagina **Panoramica** selezionare **Importa dati**.
+
+    ![Screenshot del servizio Ricerca cognitiva di Azure che evidenzia i dati di importazione.](./media/overview-panel.png)
+    
+    > **Nota:** Nella pagina **Panoramica** della risorsa di Azure AI Search la barra degli strumenti offre due opzioni:  
+    > - **Importa dati** (esperienza classica)  
+    > - **Importa dati (nuovo)** (nuova esperienza)  
+    >  
+    > Il pannello **Introduzione** sotto la sezione Panoramica include inoltre un pulsante **Importa** che reindirizza alla **nuova interfaccia utente**.  
+    >  
+    > Le istruzioni contenute in questo corso fanno riferimento al **flusso di lavoro di importazione dei dati classico**. Per evitare confusione, assicurarsi di selezionare **Importa dati** dalla barra degli strumenti.
 1. Nella pagina **Definisci la connessione ai dati** selezionare **Archiviazione BLOB di Azure** nell'elenco **Origine dati**. Completare quindi i dettagli dell'archivio dati con i valori seguenti:
     - **Origine dati**: Archiviazione BLOB di Azure
     - **Nome origine dati**: `margies-documents`
